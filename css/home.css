@@ -209,6 +209,11 @@ a {
     right: 15px;
     top: 450px;
 }
+@media (max-width: 576px) {
+    .story-section .story-section__floting-img:nth-child(2) {
+        top: 550px;
+    }
+}
 /* Start product-section */
 .product-section img {
     width: 200px;
