@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/animate.css">
 		<link rel="stylesheet" href="css/aos.css">
+		<link rel="stylesheet" href="css/all.min.css">
 		<link rel="stylesheet" href="css/home.css">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,7 +38,10 @@
 					<div class="section-home__video-contianer aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
 						<div class="section-home__iframe-container">
 							<!-- <iframe width="560"  src="https://www.youtube.com/embed/gooWdc6kb80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-							<video src="./img/main-logo.mp4" control autoplay ></video>
+							<video width="560"  controls autoplay loop>
+								<source src="./img/main-logo.mp4" type="video/mp4">
+							  Your browser does not support the video tag.
+							  </video>
 						</div>
 					</div>
 
@@ -249,7 +253,9 @@
 				<p>كل الحقوق محفوطة لشركة تمور أحد</p>
 			</div>
 		</footer>
-
+		<a href="https://api.whatsapp.com/send?phone=966562950680&amp;text=السلام عليكم حاب اخذ العرض ب 497 ريال" class="whatsapp-icon-floting" target="_blank">
+			<i class="fa-brands fa-whatsapp my-float animate__animated animate__pulse animate__infinite"></i>
+		</a>
 		<script src="./js/aos.js"></script>
 		<script src="./js/bootstrap.min.js"></script>
 		<script src="./js/jquery-3.6.1.min.js"></script>
