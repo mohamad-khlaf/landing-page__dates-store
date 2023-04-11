@@ -406,12 +406,52 @@ footer {
   }
   .swiper-section .swiper-slide--ten {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../img/products/10.jpg")
+      url("../img/products/5.jpeg")
         no-repeat 50% 50% / contain;
   }
   .swiper-section .swiper-slide--11 {
     background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-      url("../img/products/11.jpg")
+      url("../img/products/6.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--12 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/7.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--13 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/8.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--14 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/9.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--15 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/10.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--16 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/11.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--17 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/12.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--18 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/13.jpeg")
+        no-repeat 50% 50% / contain;
+  }
+  .swiper-section .swiper-slide--19 {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+      url("../img/products/14.jpeg")
         no-repeat 50% 50% / contain;
   }
   
